@@ -1,0 +1,15 @@
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\task004.csproj.AssemblyReference.cache
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\task004.AssemblyInfoInputs.cache
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\task004.AssemblyInfo.cs
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\task004.csproj.CoreCompileInputs.cache
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\bin\Debug\net6.0\task004.exe
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\bin\Debug\net6.0\task004.deps.json
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\bin\Debug\net6.0\task004.runtimeconfig.json
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\bin\Debug\net6.0\task004.dll
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\bin\Debug\net6.0\task004.pdb
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\task004.dll
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\refint\task004.dll
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\task004.pdb
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\task004.genruntimeconfig.cache
+C:\study_analyst_big_data\Знакомство с языками программирования (семинары)\Lesson_1\task004\obj\Debug\net6.0\ref\task004.dll
